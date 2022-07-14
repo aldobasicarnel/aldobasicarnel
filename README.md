@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldobasicarnel
-- 👀 I’m interested in programming. 
+- 👀 I’m interested in Front End programming. 
 - 🌱 I’m currently learning JavaScript, ReactJS, HTML, CSS. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arnelaldobasic8@gmail.com 
